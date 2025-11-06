@@ -1,0 +1,3 @@
+[submodule "DaisySP-LGPL"]
+	path = DaisySP-LGPL
+	url = https://github.com/nablum/DaisySP-LGPL.git
